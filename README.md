@@ -1,21 +1,27 @@
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Yo 👋🏾 Thanks for stopping by! Im Herbart a Developer with an emphasis on Creative Development/Design Engineering! Sometimes I release <a href="https://www.youtube.com/watch?v=QTTAcjfxm3c">music</a> too. 🐍 ☁️ and remember u are amazing. </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhod3FrcWowN2syZDFtN3V1dXp1dWJhMng1dTlobnFlZHRtZGp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GMnizufkYlUReJeICB/giphy.gif">
 </p>
 
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+<em>My current Fav <a href="https://open.spotify.com/track/56rf6DuAv3AGpLIhXVagTM?si=116861fb04a34605">The Beach Boys - I'm Waiting For The Day</a></em>
+</p>
+
+<p align="center">
+<a href= "https://x.com/herb_dev"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 </p>
 
 <p align="center"><samp>
-Check out my repos ⬇️  
+Take a look at some of my work⬇️  
   </samp>
 </p>
+
+
+
+
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
  -->
