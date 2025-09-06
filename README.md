@@ -2,12 +2,12 @@
 <h4 align="center"><samp> Yo 👋🏾 Thanks for stopping by! Im Herbart a Developer with an emphasis on Creative Development/Design Engineering! Sometimes I release <a href="https://www.youtube.com/watch?v=QTTAcjfxm3c">music</a> too. 🐍 ☁️</samp></h4>
 
 <p align="center">
-  <img width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhod3FrcWowN2syZDFtN3V1dXp1dWJhMng1dTlobnFlZHRtZGp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GMnizufkYlUReJeICB/giphy.gif">
+  <img width="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3J3emRvMXg3azRqdWprbWF0YnF4bXU0Ymd3eTVvbm5tbmEzNjllZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO2beWllg5wDt8QLK2/giphy.gif">
 </p>
 
 
 <p align="center">
-<em>My current Fav <a href="https://open.spotify.com/track/56rf6DuAv3AGpLIhXVagTM?si=116861fb04a34605">The Beach Boys - I'm Waiting For The Day</a></em>
+<em>My current Fav <a href="https://open.spotify.com/track/0I4TqNDdc9ApF7toelZiUA?si=012c441099864201">Cuco - Feelings</a></em>
 </p>
 
 <p align="center">
