@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Yo 👋🏾 Thanks for stopping by! Im Herbart a Fullstack Developer with an emphasis on Creative Development/Design Engineering! Sometimes I release <a href="https://www.youtube.com/watch?v=QTTAcjfxm3c">music</a> too. 🐍 ☁️</samp></h4>
+<h4 align="center"><samp> Yo 👋🏾 Thanks for stopping by! Im Herbart a Developer with an emphasis on Creative Development/Design Engineering! Sometimes I release <a href="https://www.youtube.com/watch?v=QTTAcjfxm3c">music</a> too. 🐍 ☁️</samp></h4>
 
 <p align="center">
   <img width="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXkzMHVlYXNnZmw1NnMzdjExa24ydTRyaHhmamF4bGRpeGJob3JvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6gvtBUGmqwCn2SwxDS/giphy.gif">
